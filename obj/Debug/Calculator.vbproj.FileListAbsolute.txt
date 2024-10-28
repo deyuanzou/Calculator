@@ -1,0 +1,13 @@
+G:\interest\program\vbnet\Calculator\bin\Debug\Calculator.exe.config
+G:\interest\program\vbnet\Calculator\bin\Debug\Calculator.exe
+G:\interest\program\vbnet\Calculator\bin\Debug\Calculator.pdb
+G:\interest\program\vbnet\Calculator\bin\Debug\Calculator.xml
+G:\interest\program\vbnet\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+G:\interest\program\vbnet\Calculator\obj\Debug\Calculator.vbproj.SuggestedBindingRedirects.cache
+G:\interest\program\vbnet\Calculator\obj\Debug\Calculator.Form1.resources
+G:\interest\program\vbnet\Calculator\obj\Debug\Calculator.Resources.resources
+G:\interest\program\vbnet\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+G:\interest\program\vbnet\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+G:\interest\program\vbnet\Calculator\obj\Debug\Calculator.exe
+G:\interest\program\vbnet\Calculator\obj\Debug\Calculator.xml
+G:\interest\program\vbnet\Calculator\obj\Debug\Calculator.pdb
